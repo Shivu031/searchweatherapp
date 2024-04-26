@@ -1,0 +1,41 @@
+.box{
+    text-align: center;
+    margin-top: 170px;
+}
+.head{
+    padding-bottom: 14px;
+    font-style: italic;
+    color: rgb(252, 145, 4);
+}
+.inputData{
+    padding: 12px;
+}
+.inputField{
+    width: 140px;
+    height: 30px;
+    border-radius: 50px;
+    border: 1px solid grey;
+    outline: none;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(82, 80, 80);
+}
+.errorMsg{
+    font-size: 35px;
+    color: red;
+}
+.info{
+    font-family: sans-serif;
+}
+.location{
+    color: green;
+    padding: 7px;
+}
+.temp{
+    padding: 7px;
+    color: rgb(246, 46, 163);
+}
+.tempmin_max{
+    padding: 7px;
+    color: rgb(108, 60, 196);
+}
